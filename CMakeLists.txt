@@ -1,0 +1,4 @@
+add_subdirectory(ohello)
+add_subdirectory(ohelloView)
+add_subdirectory(ohelloWidgets)
+add_subdirectory(text2texture)

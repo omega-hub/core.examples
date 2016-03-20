@@ -1,0 +1,15 @@
+Initializing mission control server on port 22500
+Running default_init.py
+Running system/quickCommands.py
+
+>> omegalib 11.2.1
+>> to get a list of quick commands type ':?'
+!!! [v10.1 DEPRECATION WARNING] Renderer::createTexture - use GpuContext::createTexture instead
+Running drag.py
+begin dragging
+begin dragging
+begin dragging
+begin dragging
+===================== ReferenceType object leaks follow:
+class omega::DrawInterface: 1
+class omega::LeakPrinter: 1
